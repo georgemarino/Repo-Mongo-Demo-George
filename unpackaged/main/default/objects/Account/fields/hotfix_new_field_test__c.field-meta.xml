@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>demo_hotfix_email_field__c</fullName>
+    <fullName>hotfix_new_field_test__c</fullName>
     <externalId>false</externalId>
-    <label>demo hotfix email field</label>
+    <label>hotfix new field test</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Email</type>
